@@ -209,7 +209,7 @@ sections:
       text:
         textAlign: left
   - type: CtaSection
-    title: HALLO DAAR
+    title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
@@ -223,7 +223,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
@@ -239,11 +239,11 @@ sections:
         justifyContent: center
         flexDirection: col
       title:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
       actions:
-        justifyContent: flex-start
+        justifyContent: center
   - type: CtaSection
     title: Let's do this
     text: >-
