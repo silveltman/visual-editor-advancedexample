@@ -280,4 +280,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+metaTitle: Hello title
 ---
