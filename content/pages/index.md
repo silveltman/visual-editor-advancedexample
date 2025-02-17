@@ -282,5 +282,5 @@ sections:
         justifyContent: flex-start
 metaTitle: Hello title
 metaDescription: hello description
-addTitleSuffix: true
+addTitleSuffix: false
 ---
